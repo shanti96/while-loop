@@ -1,0 +1,9 @@
+a=0
+b=0
+c=0
+d=0
+while a<=50:
+    c=a+b
+    d=b+a
+    print(c+d,",",end="")
+    a=a+1
